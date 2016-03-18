@@ -1,0 +1,2 @@
+# SimpleWeChatPy
+python - SimpleWeChat - API
